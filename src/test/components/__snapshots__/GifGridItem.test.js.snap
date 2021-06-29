@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <GifGridItem /> debe renderizar el componente correctamente 1`] = `
+<div
+  className="card animate__animated animate__fadeIn"
+>
+  <img
+    alt="rurouni kenshin GIF"
+    src="https://media4.giphy.com/media/eo8UrZwpvjPHi/giphy.gif?cid=c7b9e7e9attbsd94pk06j0y6kh0q18zsbphpk33sm11b5qzz&rid=giphy.gif&ct=g"
+  />
+  <p>
+    rurouni kenshin GIF
+  </p>
+</div>
+`;

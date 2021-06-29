@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Debe mostrarse correctamente debe de mostrar una lista de categorias 1`] = `
+<Fragment>
+  <h2>
+    GifExpertApp
+  </h2>
+  <AddCategory
+    setCategories={[Function]}
+  />
+  <hr />
+  <ol>
+    <GifGrid
+      category="samurai x"
+      key="samurai x"
+    />
+    <GifGrid
+      category="dragon ball"
+      key="dragon ball"
+    />
+  </ol>
+</Fragment>
+`;
+
+exports[`Debe mostrarse correctamente debe de mostrarse correctamente 1`] = `
+<Fragment>
+  <h2>
+    GifExpertApp
+  </h2>
+  <AddCategory
+    setCategories={[Function]}
+  />
+  <hr />
+  <ol />
+</Fragment>
+`;
